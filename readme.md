@@ -4,3 +4,8 @@ Para conseguir logar, você deve baixar o Forge para a versão 1.20.1! Important
 
 
 Baixe todos os mods e ponha na pasta mods da sua .minecraft
+
+
+# Shaders
+
+Para jogar com shaders, baixe a pasta shaderspack e coloque-a em sua .minecraft, se desejar outros shader's, pode baixa-los manualmente e por eles lá também.
