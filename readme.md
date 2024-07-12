@@ -43,4 +43,4 @@ https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html
 
 ## Requesitos Recomendados
 
-- 8Gb Ram dedicada para o miencraft
+- 8Gb Ram dedicada para o minecraft
