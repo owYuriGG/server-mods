@@ -2,7 +2,7 @@
 <h1 align="center"> Mods CodeCraft </h1>
 
 <div id="header" align="center">
-    <img src="https://drive.google.com/file/d/1Jz9iNLEPHodSNVMfjneYFvzZbP9DGqKm/view" alt="Logo CodeCraft" width="200"/>  
+    <img src="[https://cdn.discordapp.com/attachments/1109254360132751423/1261121895865254059/server-icon.png](https://drive.google.com/file/d/1Jz9iNLEPHodSNVMfjneYFvzZbP9DGqKm/view?usp=sharing)" alt="Logo CodeCraft" width="200"/>  
 </div>
 
 Para conseguir jogar, você deve baixar o Forge para a versão 1.20.1! Importante que seja a versão 47.3.0 do Forge!!!
