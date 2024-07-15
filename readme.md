@@ -36,8 +36,9 @@ https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html
 - ### Iniciar o Modpack
     - Iniciar o Minecraft com o Modpack:
         - Volte ao TLauncher.
-    -   Selecione a versão do Forge que você instalou anteriormente.
-    Clique em "Enter the game" para iniciar o Minecraft com o modpack instalado.
+          
+        - Selecione a versão do Forge que você instalou anteriormente.
+          Clique em "Enter the game" para iniciar o Minecraft com o modpack instalado.
 
     - Verificar a Instalação
         - Após o Minecraft iniciar, verifique se os mods do modpack estão carregados corretamente.
