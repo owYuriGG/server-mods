@@ -1,5 +1,5 @@
 
-<h1 align="center"> Mods CodeCraft </h1>
+<h1 align="center"> Mods CodeCraftAMF </h1>
 
 <div id="header" align="center">
     <img src="icon.png" alt="Logo CodeCraft" width="200"/>  
@@ -14,7 +14,7 @@ https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html
 
 
 ## Como adicionar os mods
-- ## Dowmload mods
+- ## Download mods
     - Abrir o TLauncher:
 
         - Inicie o TLauncher no seu computador. 
